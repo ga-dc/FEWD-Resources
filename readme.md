@@ -18,9 +18,9 @@ If you have an awesome link to add, simply send over a pull-request!
 ### Box Model
 
 ### Layout
-- [Understanding Floats - Chris Coyer (CSS Tricks)](https://css-tricks.com/all-about-floats/)
+- [Understanding Floats - Chris Coyier (CSS Tricks)](https://css-tricks.com/all-about-floats/)
   - A great explanation of how floats work, and especially how to use `clear` properly.  
-  - NOTE: double-check that this article is still up-to-date 
+  - NOTE: double-check that this article is still up-to-date
 
 ## Week 3: Layout Labs
 
@@ -43,5 +43,9 @@ If you have an awesome link to add, simply send over a pull-request!
 ### Form Basics
 
 ## Post-FEWD
+### Flex
+- [A Complete Guide to Flexbox - Chris Coyier (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - A comprehensive guide to the various properties of flex, organized by parent vs. child properties.
+  - Great if you need a refresher on a particular property of flex
 
 ## General Resources
